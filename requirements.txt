@@ -1,0 +1,4 @@
+librosa
+matplotlib
+ipywidgets
+mido
